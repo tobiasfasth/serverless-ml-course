@@ -1,5 +1,5 @@
 faker==18.4.0
-parsedatetimeparsedatetime==2.6
+parsedatetime==2.6
 hopsworks==3.0.5
 nbconvert==6.5.4
 scikit-learn==1.2.2
